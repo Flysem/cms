@@ -1,0 +1,25 @@
+{
+  "name": "siteserver",
+  "version": "6.8.3",
+  "description": "",
+  "repository": "https://github.com/siteserver/cms",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-filter": "^5.1.0",
+    "gulp-minifier": "^1.2.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-all": "^0.9.7",
+    "gulp-zip": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

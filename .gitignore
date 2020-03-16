@@ -1,7 +1,9 @@
 *.zip
+TestResults/
 backup/
 update/
 build/
+packages/
 *.exe
 *.exe.config
 package-lock.json
